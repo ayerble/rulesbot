@@ -17,7 +17,6 @@ Copy and paste the following code into the editor, filling in your information.
 
 Exit and save the file. 
 
-
 ## Issues and Concerns
-If you have any issues with the bot, contact `ayerble#1699`.
+If you have any questions, concerns, or issues with the bot, contact `ayerble#1699`.
 
