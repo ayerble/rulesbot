@@ -1,0 +1,23 @@
+{
+  "name": "rulesbot",
+  "version": "1.0.0",
+  "description": "## Installing node.js packages: In your terminal, execute `npm init -y` to install all the necessary node.js packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayerble/rulesbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayerble/rulesbot/issues"
+  },
+  "homepage": "https://github.com/ayerble/rulesbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
