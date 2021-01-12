@@ -9,8 +9,12 @@ Copy and paste the following code into the editor, filling in your information.
 	{
 		 "prefix": "your prefix",
 		 "token": "your token",
-		 "verifyRoleID": "the role ID needed for access server"
+		 "verifyRoleID": "the role ID needed for server access."
 	}
 
 Exit and save the file. 
+
+
+## Issues and Concerns
+If you have any issues with the bot, contact `ayerble#1699`.
 
