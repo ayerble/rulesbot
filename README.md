@@ -1,7 +1,7 @@
 # How to Use
 
 ## Installing node.js packages:
-In your terminal, execute `npm init -y` to install all the necessary node.js packages.
+In your terminal, execute `npm install` to install all the necessary node.js packages.
 
 ## Creating a `config.json`:
 

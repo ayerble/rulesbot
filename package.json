@@ -1,7 +1,7 @@
 {
   "name": "rulesbot",
   "version": "1.0.0",
-  "description": "## Installing node.js packages: In your terminal, execute `npm init -y` to install all the necessary node.js packages.",
+  "description": "A simple rules and verifaction bot for Discord.js v. 12.5.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
